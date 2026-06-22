@@ -20,9 +20,9 @@ import streamlit as st
 # ==================================================================
 
 BASE_DIR = Path(__file__).parent
-DATA_PATH = BASE_DIR / "C:/Users/Kamal Aldimas/PycharmProjects/PythonProject2/Deka_project_dataset_BankXYZ.csv"
-META_XLSX = BASE_DIR / "C:/UsersK/amal Aldimas/PycharmProjects/PythonProject2/metadata_dashboard.xlsx"
-META_CSV = BASE_DIR / "C:/Users/Kamal Aldimas/PycharmProjects/PythonProject2/metadata_dashboard.csv"
+DATA_PATH = BASE_DIR / "Deka_project_dataset_BankXYZ.csv"
+META_XLSX = BASE_DIR / "metadata_dashboard.xlsx"
+META_CSV = BASE_DIR / "metadata_dashboard.csv"
 
 # ---- Palet warna ----
 C_DARK = "#0F4C81"      # biru tua (judul, aksen)
